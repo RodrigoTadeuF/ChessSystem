@@ -8,7 +8,7 @@ import chess.ChessMatch;
 import chess.ChessPiece;
 import chess.ChessPosition;
 
-public class Programa {
+public class Program {
 
 	public static void main(String[] args) {
 		
@@ -39,5 +39,4 @@ public class Programa {
 			}
 		}
 	}
-
 }
